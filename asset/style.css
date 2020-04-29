@@ -1,11 +1,11 @@
-html {
-    background-image: url("./img/background.jpg");
+/* html {
+
     height:100%;
     width:100%;
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 80%;
-}
+} */
 
 p {
     font-size: 30px;
