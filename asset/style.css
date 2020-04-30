@@ -16,3 +16,12 @@ p {
     color: white;
     font-style: bold;
 }
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+button {
+    border: none;
+}
